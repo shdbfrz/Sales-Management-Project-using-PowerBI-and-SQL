@@ -196,6 +196,12 @@ The project includes:
 
 These datasets are located inside the **Data_for_Power_BI** folder.
 
+## 📂 Dataset
+
+**Source:** Kaggle (AdventureWorks-based dataset)
+
+The project uses an AdventureWorks-based sales dataset downloaded from Kaggle. It contains sales transactions, customer information, product details, calendar data, and sales budget data for business intelligence analysis.
+
 ---
 
 # ⭐ Key Features
