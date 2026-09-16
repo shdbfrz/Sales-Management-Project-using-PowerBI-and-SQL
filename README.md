@@ -4,7 +4,7 @@
 
 ## 📖 Overview
 
-This project demonstrates how SQL and Power BI can be used together to transform raw sales data into meaningful business insights. The dataset was cleaned and transformed using SQL, modeled in Power BI, and visualized through interactive dashboards that help sales managers and representatives monitor business performance, customer behavior, product sales, and budget tracking.
+This project demonstrates how SQL and Power BI can be used together to transform raw sales data into meaningful business insights. The dataset was cleaned and transformed using SQL, modeled in Power BI, and visualized through interactive dashboards that help sales managers and representatives monitor business performance, customer behavior, product sales, and budget tracking. 
 
 ---
 
